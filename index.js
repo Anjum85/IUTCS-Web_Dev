@@ -3,3 +3,8 @@ var sum = 10 + 10;
 console.log(sum);
 var quotient = 66 / 33;
 console.log(quotient);
+var myVar = 11;
+myVar++;
+console.log(myVar);
+myVar--;
+console.log(myVar);
