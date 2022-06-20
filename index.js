@@ -8,3 +8,6 @@ myVar++;
 console.log(myVar);
 myVar--;
 console.log(myVar);
+var myName = "Zaarin";
+var myString = "My name is " + myName + " and I am well.";
+console.log(myString);
